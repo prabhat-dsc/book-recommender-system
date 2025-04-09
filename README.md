@@ -2,7 +2,7 @@
 
 # How to run ??
 
-### Steps:
+### Steps::
  
 Clone the repository
 
