@@ -24,3 +24,4 @@ setup(
     python_requires=">=3.7",
     install_requires=LIST_OF_REQUIREMENTS
 )
+
